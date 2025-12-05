@@ -51,7 +51,7 @@ AKUN LOGIN DEMO:
    Email: warga@gmail.com
    Pass : password
 
-## 🌐 Link Deployment & Demo
+## 🌐 Link Deployment 
 Aplikasi Web: [http://sipmas2.infinityfree.me]
 
 ## 📸 Screenshot
