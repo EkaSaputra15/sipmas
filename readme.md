@@ -53,7 +53,6 @@ AKUN LOGIN DEMO:
 
 ## 🌐 Link Deployment & Demo
 Aplikasi Web: [http://sipmas2.infinityfree.me]
-Video Demo: [Link Video YouTube Anda]
 
 ## 📸 Screenshot
 <img src="Sipmas-main/assets/images/tampilan sipmas.png"
