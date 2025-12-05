@@ -19,20 +19,14 @@ Masalah: Proses pengajuan surat yang mengharuskan warga datang berkali-kali ke k
 Solusi: SIPMAS menyediakan portal pelayanan mandiri di mana Warga dapat mengajukan surat (SKU, SKCK, dll) dari rumah, memantau status verifikasi, dan menyampaikan aspirasi. Bagi Perangkat Desa, aplikasi ini mempermudah verifikasi surat, manajemen data penduduk, dan pelaporan arsip secara digital.
 
 ## 🛠️ Teknologi yang Digunakan
-Language: PHP 
-Styling: CSS
-Frontend:  
-UI Framework: 
-Database: MySQL
-Server: Apache (XAMPP for Local)
-Hosting:** InfinityFree
+Language: PHP Native (MVC Architecture) Styling: CSS Frontend: HTML, JavaScript Database: MySQL Server: Apache (XAMPP for Local) Hosting:** InfinityFree
 
 ## 💻 Cara Menjalankan Aplikasi (Lokal)
 1.   Clone / Download Repository
-     Simpan folder project `sipmas` ke dalam folder `htdocs` (jika menggunakan XAMPP).
+     Buka https://github.com/EkaSaputra15/sipmas Download ZIP Dan Simpan folder project `sipmas` ke dalam folder `htdocs` (jika menggunakan XAMPP).
 2.   Import Database
      Buka `phpMyAdmin` (http://localhost/phpmyadmin).
-     Buat database baru dengan nama `db_sipmas`.
+     Buat database baru dengan nama `sipmas_db`.
      Import file database `sipmas.sql` yang ada di folder project.
 3.   Konfigurasi Koneksi
      Sesuaikan konfigurasi database di file `koneksi.php` atau `config.php` (sesuaikan username dan password database lokal Anda).
